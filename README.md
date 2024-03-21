@@ -1,6 +1,8 @@
-# Explorer - Land 01
+# <center> Explorer - Land 01
 
-## Desafio Extra 01
+## <center> Desafio Extra 01
+
+![layout desafio 01](/image/preview.png)
 
 Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos os conceitos abaixo, aprendidos na aula:
 
@@ -14,8 +16,8 @@ Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalece
 
 </ul>
 
-## Layout da aplicação
+## Layout do Figma
 
 Disponível [Aqui](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate)
 
-![layout desafio 01](/image/preview.png)
+## Tecnologias Utilizadas
