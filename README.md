@@ -4,7 +4,7 @@
 
 ![layout desafio 01](/image/preview.png)
 
-Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos os conceitos abaixo, aprendidos na aula:
+Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer os conceitos abaixo, aprendidos na aula:
 
 <ul>
   <li>Estruturando um projeto HTML;</li>
