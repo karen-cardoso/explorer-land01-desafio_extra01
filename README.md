@@ -21,3 +21,9 @@ Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalece
 Disponível [Aqui](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate)
 
 ## Tecnologias Utilizadas
+
+<ul>
+<li> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </li>
+<li> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </li>
+<li>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</li>
+</ul>
