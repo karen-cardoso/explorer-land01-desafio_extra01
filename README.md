@@ -2,9 +2,7 @@
 
 <center>
 
-## Desafio Extra 01
-
-</center>
+## <center> Desafio Extra 01 </center>
 
 ![layout desafio 01](/image/preview.png)
 
@@ -34,4 +32,4 @@ Disponível [Aqui](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-E
 
 ## Deploy
 
-[Clique aqui!](https://karen-cardoso.github.io/explorer-land01-desafio_extra01/) para acessar.
+[Clique aqui](https://karen-cardoso.github.io/explorer-land01-desafio_extra01/) para acessar.
