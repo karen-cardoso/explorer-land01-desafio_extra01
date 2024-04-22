@@ -1,4 +1,4 @@
-# Explorer - Land 01
+# Explorer - Stage 2
 
 <center>
 
