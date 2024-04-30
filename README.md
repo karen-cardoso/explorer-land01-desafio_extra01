@@ -27,4 +27,4 @@ Disponível [Aqui](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-E
 
 ## 🌎 Deploy
 
-[Clique aqui](https://karen-cardoso.github.io/explorer-land01-desafio_extra01/) para acessar.
+[Clique aqui](https://karen-cardoso.github.io/explorer-stage2-desafio_extra01/) para acessar.
